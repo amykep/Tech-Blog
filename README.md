@@ -55,7 +55,6 @@ DB_NAME='tech_news_db'</br>
 DB_USER='new_user'</br>
 DB_PW='XXXXXX'</br>
 
-
 ## Screenshots
 HomePage
 ![Screenshot of note adding](./public/images/home.png)</br>
@@ -70,3 +69,6 @@ Add Comment / Upvote a Post
 
 ## Github Page: 
 https://github.com/amykep/Tech-Blog
+
+## Deployed on Heroku at:
+ https://salty-castle-67103.herokuapp.com
